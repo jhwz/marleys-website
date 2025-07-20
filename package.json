@@ -25,6 +25,7 @@
 		"wrangler": "^4.25.0"
 	},
 	"dependencies": {
-		"@sveltejs/adapter-cloudflare": "^7.1.0"
+		"@sveltejs/adapter-cloudflare": "^7.1.0",
+		"svelte-confetti": "^2.0.0"
 	}
 }

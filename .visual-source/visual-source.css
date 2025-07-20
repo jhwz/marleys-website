@@ -2,22 +2,26 @@
 
 /* COLOR TOKENS */
 :root {
-	--bg: #8bb889;
-	--bg-rgb: 139 184 137;
-	--header-text: #034002;
-	--header-text-rgb: 3 64 2;
-	--body-text: #177a17;
-	--body-text-rgb: 23 122 23;
+	--bg: #b6a8ce;
+	--bg-rgb: 182 168 206;
+	--heading-text: #726486;
+	--heading-text-rgb: 114 100 134;
+	--button: #6990b9;
+	--button-rgb: 105 144 185;
+	--button-text: #f4c7ef;
+	--button-text-rgb: 244 199 239;
 }
 
 /* PALETTE Colours */
 :root{
-	--colours-01: #8bb889;
-	--colours-01-rgb: 139 184 137;
-	--colours-02: #034002;
-	--colours-02-rgb: 3 64 2;
-	--colours-03: #177a17;
-	--colours-03-rgb: 23 122 23;
+	--colours-01: #b6a8ce;
+	--colours-01-rgb: 182 168 206;
+	--colours-02: #726486;
+	--colours-02-rgb: 114 100 134;
+	--colours-03: #6990b9;
+	--colours-03-rgb: 105 144 185;
+	--colours-04: #f4c7ef;
+	--colours-04-rgb: 244 199 239;
 }
 
 /* SPACING */
